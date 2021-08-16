@@ -4,7 +4,7 @@ Weather App that displays weather and holiday informations about given location
 
 <br />
 <p align="center">
-  <a href="https://github.com/Weather">
+  <a href="https://github.com/umutsevdi/weather-calendar">
     <img src="https://img.icons8.com/color/80/nodejs.png" alt="Logo" width="80" height="80">
   </a>
   
