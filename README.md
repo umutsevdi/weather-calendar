@@ -1,7 +1,3 @@
-# weather-calendar
-Weather App that displays weather and holiday informations about given location
-
-
 <br />
 <p align="center">
   <a href="https://github.com/umutsevdi/weather-calendar">
