@@ -11,7 +11,7 @@ Weather App that displays weather and holiday informations about given location
   <h3 align="center">Weather Calendar</h3>
   
   <p align="center">A NodeJS application that returns the weather information and holidays of given city or country.</p>
-  <p align="center"><img src="screenshots/Screenshot%20from%202021-08-16%2020-26-05.png">
+  <p align="center"><img src="screenshots/Screenshot%20from%202021-08-16%2020-26-06.png">
 </p>
 
 ## Installation
